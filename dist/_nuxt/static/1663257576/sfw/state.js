@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fanime-api\u002F_nuxt\u002Fstatic\u002F1663257576",layout:"default",error:a,serverRendered:true,routePath:"\u002Fsfw",config:{_app:{basePath:"\u002Fanime-api\u002F",assetsPath:"\u002Fanime-api\u002F_nuxt\u002F",cdnURL:a}}}}(null));
